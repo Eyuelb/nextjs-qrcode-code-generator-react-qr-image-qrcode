@@ -2,7 +2,6 @@
 "use client";
 
 import QRImage from "react-qr-image";
-
 export const QRCodeExample = () => {
   return (
     <QRImage text="" color="" background="" transparent>
